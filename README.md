@@ -9,3 +9,6 @@ MIT License
 - Chat GPT
 - Gemini
 - DeepSeek
+## Book:
+- AI Engineering: Building Applications with Foundation Models
+
