@@ -1,5 +1,5 @@
 # Prompt Engineering
-My Prompt Engineering
+Prompt Engineering
 
 ## Author
 - Cesar Arcos-Gonzalez: cesar99ag@gmail.com
